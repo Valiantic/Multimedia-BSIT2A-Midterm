@@ -13,7 +13,7 @@ const arrayData = [
         imageUrl: "./images/profiles/tristan.jpg",
         Heading: "Tristan Mark Infante",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
+        para: "Like a leaf in the wallow breeze, I have no clue where am I heading, but I know it will be a worthwhile one when I arrive at my destination"
     },
     {
         id: 2,
@@ -66,15 +66,26 @@ const cardContainer = document.querySelector('.container')
 const functionCards = () => {
     arrayData.map((data) => {
         // console.log(data)
+        // const linkUrl = `./html/tristan.html?id=${data.id}`;
+        let profileUrl = `./profile.html?id=${data.id}`; // Default profile URL
+
+        // Check if the current data object has a specific target id (replace 2 with your desired target id)
+        if (data.id === 1) {
+            profileUrl = `./html/tristan.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
+          }
+        if (data.id === 2) {
+          profileUrl = `./html/steve.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
+        }
+
         cardContainer.innerHTML += `
         <div class="card" style="background-color: ${data.bgColor}">
             <div class="image">
                 <img src="${data.imageUrl}" alt="">
             </div>
             <h2>${data.Heading}</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?</p>
+            <p>${data.para}</p>
 
-            <a href="https://www.youtube.com/watch?v=2vYtbUabbsQ"><button>My Daily Life</button></a>
+            <a href="${profileUrl}"><button>My Daily Life</button></a>
            
         </div>`
     })
