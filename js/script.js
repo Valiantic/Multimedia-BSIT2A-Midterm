@@ -34,7 +34,7 @@ const arrayData = [
         imageUrl: "./images/profiles/meinard.jpg",
         Heading: "Meinard Languita",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
+        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur"
     },
     {
         id: 5,
