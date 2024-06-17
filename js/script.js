@@ -31,7 +31,7 @@ const arrayData = [
     },
     {
         id: 4,
-        imageUrl: "./images/a4.jpg",
+        imageUrl: "./images/profiles/meinard.jpg",
         Heading: "Meinard Languita",
         bgColor: "rgb(255, 246, 209)",
         para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
@@ -41,7 +41,7 @@ const arrayData = [
         imageUrl: "./images/profiles/jommel.jpg",
         Heading: "Jommel Labrador",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
+        para: "Everywhere you go, take a picture of what catches your eye.  Capture the world through your own unique lens. What appeals to you is more important than what others think. "
     },
     {
         id: 6,
@@ -52,10 +52,10 @@ const arrayData = [
     },
     {
         id: 7,
-        imageUrl: "./images/.jpg",
+        imageUrl: "./images/profiles/lans.jpg",
         Heading: "Lance Michele Gunda",
         bgColor: "rgb(255, 246, 209)",
-        para: "Kung bibitaw ng mahinahon ako ba'y lulubayan ng ating mga kahapon na 'di na kayang ayusin ng lambing."
+        para: "Kung bibitaw ng mahinahon ako ba'y lulubayan ng ating mga kahapon na 'di na kayang ayusin ng lambing. -Arthur Nery"
     },
     
 ]
