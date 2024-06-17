@@ -76,6 +76,21 @@ const functionCards = () => {
         if (data.id === 2) {
           profileUrl = `./html/steve.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
         }
+        if (data.id === 3) {
+            profileUrl = `./html/railey.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
+        }
+        if (data.id === 4) {
+            profileUrl = `./html/meinard.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
+        }
+        if (data.id === 5) {
+            profileUrl = `./html/jommel.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
+        }
+        if (data.id === 6) {
+            profileUrl = `./html/rhenz.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
+        }
+        if (data.id === 7) {
+            profileUrl = `./html/lans.html?id=${data.id}`; // Replace with your actual URL structure for the other HTML page
+        }
 
         cardContainer.innerHTML += `
         <div class="card" style="background-color: ${data.bgColor}">
