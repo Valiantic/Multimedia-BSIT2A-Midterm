@@ -24,10 +24,10 @@ const arrayData = [
     },
     {
         id: 3,
-        imageUrl: "./images/a3.jpg",
+        imageUrl: "./images/profiles/railey.jpg",
         Heading: "Railey Canete",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
+        para: "One bad chapter doesn't mean the story is over. Every book has its challenges, but the best ones keep turning the page. Stay positive, and keep moving forward."
     },
     {
         id: 4,
@@ -38,7 +38,7 @@ const arrayData = [
     },
     {
         id: 5,
-        imageUrl: "./images/a5.jpg",
+        imageUrl: "./images/profiles/jommel.jpg",
         Heading: "Jommel Labrador",
         bgColor: "rgb(255, 246, 209)",
         para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
@@ -55,7 +55,7 @@ const arrayData = [
         imageUrl: "./images/.jpg",
         Heading: "Lance Michele Gunda",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
+        para: "Kung bibitaw ng mahinahon ako ba'y lulubayan ng ating mga kahapon na 'di na kayang ayusin ng lambing."
     },
     
 ]
