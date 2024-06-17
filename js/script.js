@@ -34,7 +34,7 @@ const arrayData = [
         imageUrl: "./images/profiles/meinard.jpg",
         Heading: "Meinard Languita",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur"
+        para: "Everyone sees the world in a different way. Allow me to show you mine, captured through the unique lens of my camera. Get ready to experience the world anew through my eyes."
     },
     {
         id: 5,
