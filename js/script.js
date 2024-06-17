@@ -20,7 +20,7 @@ const arrayData = [
         imageUrl: "./images/profiles/steve.jpg",
         Heading: "Steven Gabriel Madali",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
+        para: "Light chases me, and stories unfold before my lens. Explore the world through my daily image gallery, where a new perspective comes into view every single day."
     },
     {
         id: 3,
@@ -45,10 +45,10 @@ const arrayData = [
     },
     {
         id: 6,
-        imageUrl: "./images/a6.jpg",
+        imageUrl: "./images/profiles/rhenz.jpg",
         Heading: "Rhenzomar Facundo",
         bgColor: "rgb(255, 246, 209)",
-        para: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugiat perspiciatis voluptatibus eligendi, deserunt corrupti atque ipsa, ipsam magnam iste consequuntur laborum consequatur harum blanditiis, porro quae quidem laboriosam inventore?"
+        para: "Just like a kid wondering around, eyes wide with wonder and eager to explore. The world is a playground, and everyday is a chance to uncover something magical."
     },
     {
         id: 7,
