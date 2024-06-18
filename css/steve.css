@@ -150,7 +150,7 @@ img{
     left: 0%;
 }
 #slider4:target ~ .imgContainer{
-    left: -20%;
+    left: -25%;
 }
 #slider5:target ~ .imgContainer{
     left: -35%;
