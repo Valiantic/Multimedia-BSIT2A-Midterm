@@ -66,6 +66,8 @@ button {
     justify-content: center;
     align-items: center;
     transition: 1s;
+    margin-left: 20%; 
+    /* adjust image */
 }
 
 .slide_div{
@@ -148,10 +150,10 @@ img{
     left: 0%;
 }
 #slider4:target ~ .imgContainer{
-    left: -10%;
+    left: -20%;
 }
 #slider5:target ~ .imgContainer{
-    left: -20%;
+    left: -35%;
 }
 
 

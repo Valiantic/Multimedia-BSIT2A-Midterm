@@ -67,6 +67,7 @@ button {
     justify-content: center;
     align-items: center;
     transition: 1s;
+    margin-left: 10%;
 }
 
 .slide_div{
